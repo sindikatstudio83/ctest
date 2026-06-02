@@ -10,7 +10,7 @@ Ovo je jedini produkcioni folder za sajt. Next.js aplikacija, Supabase SQL, back
 - Kandidat: pregled, biografija/CV builder, moje prijave.
 - Firma: profil, oglasi, novi oglas, selekcija prijava, pretplata i dokaz uplate.
 - Upravljanje: oglasi, firme, korisnici i dokazi uplata.
-- Supabase query sloj u `lib/queries`.
+- Supabase query sloj u `lib/queries`. 
 - Browser Supabase klijent u `lib/supabase/client.ts`.
 - Public Supabase klijent za server komponente u `lib/supabase/server.ts`.
 - Middleware zastita za kandidat, firma i upravljanje rute.
